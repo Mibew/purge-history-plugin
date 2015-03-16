@@ -5,7 +5,7 @@ It cleans up outdated dialogs.
 
 ## Installation
 
-1. Get the archive with the plugin sources. You can download it from the [official site](https://mibew.org/plugins) or build the plugin from sources.
+1. Get the archive with the plugin sources. You can download it from the [official site](https://mibew.org/plugins#mibew-purge-history) or build the plugin from sources.
 
 2. Untar/unzip the plugin's archive.
 
